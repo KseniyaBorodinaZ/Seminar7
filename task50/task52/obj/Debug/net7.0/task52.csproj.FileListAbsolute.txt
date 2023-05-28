@@ -1,0 +1,15 @@
+C:\Users\sunne\OneDrive\Desktop\ГБ\seminar7\task50\task52\bin\Debug\net7.0\task52.exe
+C:\Users\sunne\OneDrive\Desktop\ГБ\seminar7\task50\task52\bin\Debug\net7.0\task52.deps.json
+C:\Users\sunne\OneDrive\Desktop\ГБ\seminar7\task50\task52\bin\Debug\net7.0\task52.runtimeconfig.json
+C:\Users\sunne\OneDrive\Desktop\ГБ\seminar7\task50\task52\bin\Debug\net7.0\task52.dll
+C:\Users\sunne\OneDrive\Desktop\ГБ\seminar7\task50\task52\bin\Debug\net7.0\task52.pdb
+C:\Users\sunne\OneDrive\Desktop\ГБ\seminar7\task50\task52\obj\Debug\net7.0\task52.csproj.AssemblyReference.cache
+C:\Users\sunne\OneDrive\Desktop\ГБ\seminar7\task50\task52\obj\Debug\net7.0\task52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunne\OneDrive\Desktop\ГБ\seminar7\task50\task52\obj\Debug\net7.0\task52.AssemblyInfoInputs.cache
+C:\Users\sunne\OneDrive\Desktop\ГБ\seminar7\task50\task52\obj\Debug\net7.0\task52.AssemblyInfo.cs
+C:\Users\sunne\OneDrive\Desktop\ГБ\seminar7\task50\task52\obj\Debug\net7.0\task52.csproj.CoreCompileInputs.cache
+C:\Users\sunne\OneDrive\Desktop\ГБ\seminar7\task50\task52\obj\Debug\net7.0\task52.dll
+C:\Users\sunne\OneDrive\Desktop\ГБ\seminar7\task50\task52\obj\Debug\net7.0\refint\task52.dll
+C:\Users\sunne\OneDrive\Desktop\ГБ\seminar7\task50\task52\obj\Debug\net7.0\task52.pdb
+C:\Users\sunne\OneDrive\Desktop\ГБ\seminar7\task50\task52\obj\Debug\net7.0\task52.genruntimeconfig.cache
+C:\Users\sunne\OneDrive\Desktop\ГБ\seminar7\task50\task52\obj\Debug\net7.0\ref\task52.dll
